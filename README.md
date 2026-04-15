@@ -1,4 +1,3 @@
-```markdown
 # 🏛️ M.E.S.A. | Secretário Virtual v4.5
 > **Mentoria Estratégica Sistêmica Autônoma** > *Transformando a gestão acadêmica e profissional através da Inteligência Artificial.*
 
